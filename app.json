@@ -1,12 +1,12 @@
 {
-    "name": "ᴍᴜᴋᴇꜱʜ ᴍᴜꜱɪᴄ",
+    "name": "ᴍᴜꜱɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/56d1760224589ee370186.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "MukeshMusic",
+    "ProBotMusic",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": " Gʀᴏᴜᴘ Cᴏɴᴛʀᴏʟʟᴇʀ ダ ᴍᴜsɪᴄ",
+        "value": "Cᴏɴᴛʀᴏʟʟᴇʀ ᴍᴜsɪᴄ",
         "required": true
       },
       "OWNER_ID": {
@@ -43,7 +43,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram String Session. One Assistant is Compulsory.",
+        "description": "A Pyrogram String Session V1 / V2.",
         "value": "",
         "required": true
       },
